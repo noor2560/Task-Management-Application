@@ -10,7 +10,7 @@ A **Task Management Application** designed to help users organize and prioritize
 - **Task Status Tracking:** Mark tasks as pending, in progress, or completed for better task management.  
 - **User-Friendly Interface:** Simple and intuitive design for easy navigation.  
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 - **Frontend:** [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - **Backend:** [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)  
